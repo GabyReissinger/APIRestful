@@ -1,0 +1,13 @@
+package org.serratec.backend.servicedto.repository;
+
+import org.serratec.backend.servicedto.domain.Usuario;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+import java.util.List;
+
+
+@Repository
+public interface UsuarioRepository  extends JpaRepository<Usuario, Long>{
+
+	Usuario findList<Usuario> findByEmail(String email);
+}

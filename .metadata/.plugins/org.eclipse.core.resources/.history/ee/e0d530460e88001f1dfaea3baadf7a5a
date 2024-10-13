@@ -1,0 +1,28 @@
+package br.org.serratec.apiindfinalproject.domain;
+
+import java.time.LocalDate;
+
+import jakarta.persistence.Embeddable;
+import jakarta.validation.constraints.NotBlank;
+
+@Embeddable
+public class Publicacao {
+
+	@NotBlank(message = "Autor é obrigatório u_u")
+	private String autor;
+	
+	private LocalDate dataPublicacao;
+	
+	@NotBlank(message = "Editora é obrigatório u_u")
+	private String editora;
+
+	public Publicacao(@NotBlank(message = "Autor é obrigatório u_u") String autor, LocalDate dataPublicacao,
+			@NotBlank(message = "Editora é obrigatório u_u") String editora) {
+		super();
+		this.autor = autor;
+		this.dataPublicacao = dataPublicacao;
+		this.editora = editora;
+	}
+	
+	
+}

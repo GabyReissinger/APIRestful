@@ -1,0 +1,5 @@
+package br.org.serratec.olamundo.controller;
+
+public class ProdutoController {
+
+}

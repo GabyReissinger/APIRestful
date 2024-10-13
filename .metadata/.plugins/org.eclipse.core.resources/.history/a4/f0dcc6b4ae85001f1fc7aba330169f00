@@ -1,0 +1,10 @@
+package br.org.serratec.mapeamento.repository;
+
+import org.springframework.stereotype.Repository;
+
+import br.org.serratec.mapeamento.domain.Cliente;
+
+@Repository
+public class ClienteRepository extends JpaRepository<Cliente, Long> {
+
+}

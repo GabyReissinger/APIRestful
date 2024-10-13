@@ -1,0 +1,7 @@
+package br.org.serratec.mapeamento.injecao;
+
+public class Exame {
+	public Double calcularExame(Double valor) {
+		return valor = valor  * 0.05;
+	}
+}

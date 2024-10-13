@@ -1,0 +1,5 @@
+package org.serratec.backend.servicedto.controller;
+
+public class UsuarioController {
+
+}

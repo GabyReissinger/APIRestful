@@ -1,0 +1,5 @@
+spring.application.name=mapeamento
+
+server.port=8081
+minha-prpriedade=ola
+

@@ -1,0 +1,5 @@
+package org.serratec.backend.servicedto.repository;
+
+public class UsuarioRepository {
+
+}

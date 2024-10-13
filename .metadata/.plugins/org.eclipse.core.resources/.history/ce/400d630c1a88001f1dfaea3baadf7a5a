@@ -1,0 +1,36 @@
+package br.org.serratec.h2banco.config;
+
+import org.springframework.beans.factory.annotation.Configurable;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Bean;
+
+import io.swagger.v3.oas.models.OpenAPI;
+import io.swagger.v3.oas.models.info.Contact;
+import io.swagger.v3.oas.models.servers.Server;
+
+@Configurable
+public class OpenApiConfg {
+	
+	@Value("${dominio.openapi.dev-url}")
+	private String devUrl;
+	
+	@Value("${dominio.openapi.prod-url}")
+	private String prodUrl;
+	
+	@Bean
+	OpenAPI myOpenAPI() {
+		Server devServer = new Server();
+		devServer.setUrl(devUrl);
+		devServer.setDescription("URL do servidos de desenvolvimento");
+		
+        Server prodServer = new Server();
+        prodServer.setUrl(prodUrl);
+        prodServer.setDescription("URL do servidores de produção");
+        
+        Contact contact = new Contact();
+        
+	}
+	
+	
+
+}

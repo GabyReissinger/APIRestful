@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=mapeamento/C:\/Users\/gabri\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.3.4\/spring-data-jpa-3.3.4.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.3.4=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1728336633096"/>
+    <typeInfo handle="=projeto-service-dto/C:\/Program Files\/Java\/jdk-17\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1724882012244"/>
+    <typeInfo handle="=projeto-service-dto/C:\/Users\/gabri\/.m2\/repository\/org\/springframework\/spring-webmvc\/6.1.13\/spring-webmvc-6.1.13.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-webmvc=/=/maven.version=/6.1.13=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.web.servlet.mvc.method.annotation(ResponseEntityExceptionHandler.class[ResponseEntityExceptionHandler" modifiers="1057" timestamp="1727994726030"/>
+</typeInfoHistroy>

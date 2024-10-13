@@ -1,0 +1,8 @@
+package br.org.serratec.mapeamento.domain;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class ExeCliente {
+
+}

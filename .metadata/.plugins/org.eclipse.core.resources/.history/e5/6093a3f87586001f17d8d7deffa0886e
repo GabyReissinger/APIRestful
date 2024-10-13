@@ -1,0 +1,108 @@
+package br.org.serratec.mapeamento.domain;
+
+import java.time.LocalDate;
+import java.util.Objects;
+
+import org.hibernate.validator.constraints.br.CPF;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+import jakarta.validation.constraints.Email;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.Pattern;
+import jakarta.validation.constraints.Size;
+
+@Entity
+@Table(name = "clientes")
+public class Cliente {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+
+	@Size(max = 60, message = "O nome deve ter no máximo {max} caracteres u_u")
+	private String nome;
+
+	@NotBlank(message = "O CPF é obrigatório u_u")
+	@CPF(message = "CPF inválido u_u")
+	private String cpf;
+
+	@Email(message = "Email inválido u_u")
+	@Column
+	private String email;
+
+	@Column
+	private LocalDate dataNascimento;
+	
+	public Cliente() {}
+
+	public Cliente(Long id, String nome, String cpf, String email, LocalDate dataNascimento) {
+		super();
+		this.id = id;
+		this.nome = nome;
+		this.cpf = cpf;
+		this.email = email;
+		this.dataNascimento = dataNascimento;
+	}
+
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getCpf() {
+		return cpf;
+	}
+
+	public void setCpf(String cpf) {
+		this.cpf = cpf;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public LocalDate getDataNascimento() {
+		return dataNascimento;
+	}
+
+	public void setDataNascimento(LocalDate dataNascimento) {
+		this.dataNascimento = dataNascimento;
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(id);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Cliente other = (Cliente) obj;
+		return Objects.equals(id, other.id);
+	}
+}

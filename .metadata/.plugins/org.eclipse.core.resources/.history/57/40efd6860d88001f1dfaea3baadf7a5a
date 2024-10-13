@@ -1,0 +1,10 @@
+package br.org.serratec.apiindfinalproject.domain;
+
+import jakarta.persistence.Embeddable;
+
+@Embeddable
+public class Publicacao {
+
+	
+	
+}
