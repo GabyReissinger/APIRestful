@@ -2914,3 +2914,1019 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:s
 2024-10-13 15:27:36,473 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-13 15:27:36,481 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-13 15:27:36,485 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 16:40:15,777 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-13 16:40:46,230 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-13 17:06:00,938 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:06:01,023 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:06:01,030 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:08:55,685 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:08:55,690 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:08:55,694 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:13:57,849 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:13:57,856 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:13:57,861 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:16:54,576 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:16:54,582 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:16:54,586 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:20:05,972 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:20:05,977 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:20:05,980 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:20:32,655 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:20:32,661 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:20:32,666 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:21:26,029 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:21:26,033 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:21:26,036 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:22:02,001 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:22:02,005 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:22:02,008 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:23:05,334 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:23:05,340 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:23:05,345 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:23:30,308 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:23:30,312 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:23:30,316 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:23:58,480 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:23:58,485 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:23:58,489 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:25:16,329 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:25:16,336 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:25:16,339 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:26:11,060 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:26:11,065 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:26:11,068 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:26:38,525 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:26:38,534 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:26:38,540 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:26:59,963 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:26:59,969 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:26:59,973 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:27:52,053 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:27:52,062 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:27:52,065 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:28:10,292 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:28:10,297 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:28:10,300 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:28:39,623 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:28:39,627 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:28:39,630 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:30:03,925 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:30:03,931 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:30:03,933 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:30:26,019 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:30:26,025 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:30:26,028 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:31:34,556 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:31:34,572 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:31:34,577 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:34:26,908 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:34:26,915 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:34:26,920 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:36:11,846 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:36:11,852 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:36:11,855 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:37:12,458 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:37:12,465 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:37:12,468 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:37:45,318 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:37:45,322 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:37:45,325 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:38:04,178 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:38:04,198 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:38:04,205 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:38:40,730 [Worker-35: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:38:40,877 [Worker-35: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:38:40,999 [Worker-35: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:41:26,365 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:41:26,373 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:41:26,377 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:41:46,984 [Worker-40: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:41:47,104 [Worker-40: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:41:47,221 [Worker-40: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:44:58,939 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:44:58,946 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:44:58,949 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:45:58,840 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:45:58,845 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:45:58,848 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:46:12,843 [Worker-39: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:46:12,965 [Worker-39: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:46:13,082 [Worker-39: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:47:22,849 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:47:22,853 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:47:22,856 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:47:31,001 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 17:47:31,006 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 17:47:31,009 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 17:47:38,300 [Worker-43: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:47:38,468 [Worker-43: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 17:47:38,583 [Worker-43: Launching apiindfinalproject - ApiIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 18:30:34,346 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-13 18:30:59,862 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-13 18:31:41,812 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:31:41,830 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 18:31:41,835 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 18:31:56,427 [Worker-10: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 18:31:56,567 [Worker-10: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 18:31:56,711 [Worker-10: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 18:35:36,610 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 18:35:36,611 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 18:35:36,616 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 18:40:40,840 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:40:40,850 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 18:40:40,855 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 18:40:59,648 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 18:40:59,657 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 18:40:59,661 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 18:42:16,163 [Worker-14: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 18:42:16,286 [Worker-14: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 18:42:16,408 [Worker-14: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 18:43:19,027 [Worker-15: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 18:43:19,151 [Worker-15: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 18:43:19,272 [Worker-15: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:01:46,808 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:01:46,990 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:01:46,994 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:06:20,782 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:06:20,909 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:06:20,919 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:10:04,413 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:10:04,442 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:10:04,445 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:11:13,689 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:11:13,693 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:11:13,726 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:18:35,215 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:18:35,219 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:18:35,222 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:19:01,636 [Worker-46: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:19:01,833 [Worker-46: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:19:01,970 [Worker-46: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:20:19,291 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:20:19,297 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:20:19,301 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:20:37,012 [Worker-45: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:20:37,033 [Worker-45: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:20:37,038 [Worker-45: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:20:37,223 [Worker-45: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:20:37,391 [Worker-45: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:20:37,741 [Worker-45: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:27:13,690 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:27:13,695 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:27:13,698 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:27:25,272 [Worker-8: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:27:25,386 [Worker-8: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:27:25,501 [Worker-8: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:28:09,364 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:28:09,368 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:28:09,371 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:28:20,436 [Worker-8: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:28:20,574 [Worker-8: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:28:20,695 [Worker-8: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:30:16,754 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:30:16,760 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:30:16,763 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:30:30,969 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:30:30,989 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:30:30,992 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:30:50,288 [Worker-57: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:30:50,415 [Worker-57: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:30:50,540 [Worker-57: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:31:56,019 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:31:56,028 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:31:56,031 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:32:09,702 [Worker-59: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:32:09,816 [Worker-59: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:32:09,934 [Worker-59: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:37:48,637 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:37:48,651 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:37:48,654 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:37:57,813 [Worker-58: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:37:57,936 [Worker-58: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:37:58,054 [Worker-58: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:40:08,046 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:40:08,053 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:40:08,055 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:40:16,819 [Worker-64: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:40:16,935 [Worker-64: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:40:17,055 [Worker-64: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:42:04,925 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:42:04,930 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:42:04,933 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:42:14,406 [Worker-69: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:42:14,802 [Worker-69: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:42:14,920 [Worker-69: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:44:59,769 [Worker-63: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.org.serratec:APIIndFinalProject:0.0.1-SNAPSHOT @ C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\pom.xml.
+2024-10-13 19:45:00,891 [Worker-63: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types/2.20.0/hibernate-types-2.20.0.pom
+2024-10-13 19:45:00,893 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.vladmihalcea:hibernate-types:jar:2.20.0 is missing, no dependency information available
+2024-10-13 19:45:00,975 [Worker-63: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-13 19:45:01,032 [Worker-63: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-13 19:45:01,057 [Worker-63: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types/2.20.0/hibernate-types-2.20.0.jar
+2024-10-13 19:45:02,351 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:45:02,352 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:45:02,357 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:45:02,915 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types/2.20.0/hibernate-types-2.20.0-sources.jar
+2024-10-13 19:45:02,994 [Worker-56: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.vladmihalcea:hibernate-types:2.20.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.vladmihalcea:hibernate-types:jar:sources:2.20.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-13 19:46:07,494 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.org.serratec:APIIndFinalProject:0.0.1-SNAPSHOT @ C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\pom.xml.
+2024-10-13 19:46:07,931 [Worker-73: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types-55/2.20.0/hibernate-types-55-2.20.0.pom
+2024-10-13 19:46:07,958 [Worker-73: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types-55/2.20.0/hibernate-types-55-2.20.0.pom
+2024-10-13 19:46:08,022 [Worker-73: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types-parent/2.20.0/hibernate-types-parent-2.20.0.pom
+2024-10-13 19:46:08,038 [Worker-73: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types-parent/2.20.0/hibernate-types-parent-2.20.0.pom
+2024-10-13 19:46:08,067 [Worker-73: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.17.3/testcontainers-bom-1.17.3.pom
+2024-10-13 19:46:08,072 [Worker-73: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.17.3/testcontainers-bom-1.17.3.pom
+2024-10-13 19:46:08,146 [Worker-73: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-13 19:46:08,202 [Worker-73: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-13 19:46:08,226 [Worker-73: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types-55/2.20.0/hibernate-types-55-2.20.0.jar
+2024-10-13 19:46:08,266 [Worker-73: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types-55/2.20.0/hibernate-types-55-2.20.0.jar
+2024-10-13 19:46:08,683 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.org.serratec:h2banco:0.0.1-SNAPSHOT @ C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\h2banco\pom.xml.
+2024-10-13 19:46:09,087 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.org.serratec:ola-mundo:0.0.1-SNAPSHOT @ C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\ola-mundo\pom.xml.
+2024-10-13 19:46:09,562 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.org.serratec:mapeamento:0.0.1-SNAPSHOT @ C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\mapeamento\mapeamento\pom.xml.
+2024-10-13 19:46:10,058 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.serratec.backend:projeto-service-dto:3.3.4 @ C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\pom.xml.
+2024-10-13 19:46:11,668 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:46:11,670 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:46:11,675 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:46:12,009 [Worker-63: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types-55/2.20.0/hibernate-types-55-2.20.0-sources.jar
+2024-10-13 19:46:12,037 [Worker-63: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/vladmihalcea/hibernate-types-55/2.20.0/hibernate-types-55-2.20.0-sources.jar
+2024-10-13 19:46:12,041 [Worker-63: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.vladmihalcea:hibernate-types-55:2.20.0
+2024-10-13 19:46:13,319 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 19:46:13,694 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:46:13,704 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:46:16,600 [Worker-73: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:46:16,739 [Worker-73: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:46:16,853 [Worker-73: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:57:35,615 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:57:35,616 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:57:35,618 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:57:55,168 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:57:55,169 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 19:57:55,172 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 19:58:01,258 [Worker-81: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:58:01,443 [Worker-81: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:58:01,627 [Worker-81: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:59:17,262 [Worker-78: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:59:17,381 [Worker-78: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 19:59:17,497 [Worker-78: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:00:26,044 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:00:26,071 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:00:26,075 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\h2banco\src\test\resources
+2024-10-13 20:00:26,251 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:00:26,253 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:00:26,256 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:00:26,786 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:00:26,803 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:00:26,809 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\mapeamento\mapeamento\src\test\resources
+2024-10-13 20:00:27,238 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:00:27,255 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:00:27,259 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\ola-mundo\src\test\resources
+2024-10-13 20:00:27,637 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:00:27,655 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:00:27,689 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-13 20:00:38,309 [Worker-75: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-13 20:00:38,618 [Worker-75: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.org.serratec:APIIndFinalProject:0.0.1-SNAPSHOT @ C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\pom.xml.
+2024-10-13 20:00:39,059 [Worker-75: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-13 20:00:39,290 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /apiindfinalproject/src/main/java
+2024-10-13 20:00:39,292 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /apiindfinalproject/src/main/resources
+2024-10-13 20:00:39,293 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /apiindfinalproject/src/main/resources
+2024-10-13 20:00:39,294 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /apiindfinalproject/src/test/java
+2024-10-13 20:00:39,295 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /apiindfinalproject/src/test/resources
+2024-10-13 20:00:39,693 [Worker-75: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-10-13 20:00:40,022 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:00:40,041 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:00:40,045 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:00:47,755 [Worker-80: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:00:47,900 [Worker-80: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:00:48,032 [Worker-80: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:02:38,671 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:02:38,679 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:02:38,682 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:02:47,216 [Worker-82: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:02:47,330 [Worker-82: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:02:47,451 [Worker-82: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:03:52,516 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:03:52,517 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:03:52,519 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:03:57,154 [Worker-83: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:03:57,272 [Worker-83: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:03:57,389 [Worker-83: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:06:36,610 [Worker-80: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:06:36,998 [Worker-80: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:06:37,114 [Worker-80: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:08:54,807 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:08:54,844 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:08:54,846 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:09:03,833 [Worker-87: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:09:03,953 [Worker-87: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:09:04,072 [Worker-87: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:12:21,135 [Worker-91: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.org.serratec:APIIndFinalProject:0.0.1-SNAPSHOT @ C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\pom.xml.
+2024-10-13 20:12:21,605 [Worker-91: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-13 20:12:22,071 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:12:22,072 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:12:22,078 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:12:22,484 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:12:22,500 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:12:22,502 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:12:30,882 [Worker-89: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:12:30,996 [Worker-89: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:12:31,111 [Worker-89: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:17:11,634 [Worker-94: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:17:11,748 [Worker-94: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:17:11,860 [Worker-94: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:25:51,236 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:25:51,245 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:25:51,247 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:26:13,165 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:26:13,169 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:26:13,171 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:27:26,098 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:27:26,102 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:27:26,104 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:28:17,856 [Worker-103: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:28:18,118 [Worker-103: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:28:18,230 [Worker-103: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:33:05,201 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:33:05,206 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:33:05,209 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:33:16,338 [Worker-103: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:33:16,506 [Worker-103: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:33:16,623 [Worker-103: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:34:41,604 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:34:41,608 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:34:41,610 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:34:53,674 [Worker-105: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:34:53,812 [Worker-105: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:34:53,930 [Worker-105: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:36:39,643 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:36:39,650 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:36:39,653 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:39:10,467 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:39:10,473 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:39:10,475 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:39:52,615 [Worker-107: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:39:52,621 [Worker-107: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:39:52,623 [Worker-107: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:39:52,786 [Worker-107: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:39:52,897 [Worker-107: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:39:53,011 [Worker-107: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:40:30,483 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:40:30,488 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:40:30,490 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:43:49,780 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:43:49,785 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:43:49,787 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:43:57,386 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:43:57,391 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:43:57,394 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:44:03,860 [Worker-105: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:44:03,974 [Worker-105: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:44:04,087 [Worker-105: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:48:04,388 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:48:04,396 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:48:04,399 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:51:16,427 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:51:16,433 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:51:16,435 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:51:22,968 [Worker-107: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:51:23,080 [Worker-107: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:51:23,192 [Worker-107: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:54:51,306 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:54:51,313 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:54:51,316 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:54:58,707 [Worker-118: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:54:58,818 [Worker-118: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:54:58,930 [Worker-118: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:57:47,286 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:57:47,292 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:57:47,378 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:57:50,884 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:57:50,889 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:57:50,891 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 20:58:00,746 [Worker-122: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:58:00,903 [Worker-122: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:58:01,024 [Worker-122: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 20:59:30,791 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 20:59:30,799 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 20:59:30,801 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 21:01:58,507 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-13 21:01:58,512 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-13 21:01:58,514 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-13 21:02:14,120 [Worker-113: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 21:02:14,233 [Worker-113: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 21:02:14,347 [Worker-113: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 21:03:37,917 [Worker-118: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 21:03:38,030 [Worker-118: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-13 21:03:38,142 [Worker-118: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-14 12:37:27,670 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-14 12:37:41,593 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-10-14 12:38:48,288 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-14 12:39:12,948 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 12:39:12,965 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 12:39:12,969 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-14 12:39:42,332 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 12:39:42,343 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 12:39:42,351 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-14 12:41:25,056 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 12:41:25,065 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 12:41:25,069 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-14 12:44:01,493 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 12:44:01,500 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 12:44:01,502 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-14 12:44:42,597 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 12:44:42,605 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 12:44:42,610 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-14 12:45:11,219 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 12:45:11,223 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 12:45:11,226 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-14 12:45:15,701 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 12:45:15,707 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 12:45:15,711 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-14 12:45:43,681 [Worker-10: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-14 12:45:43,828 [Worker-10: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-14 12:45:43,952 [Worker-10: Launching apiindfinalproject - APIIndFinalProjectApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier null to /h2banco/target/classes
+2024-10-14 13:05:28,065 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 13:05:28,068 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 13:05:28,072 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-14 16:34:56,415 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-14 16:36:30,693 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-14 18:18:46,970 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:18:47,040 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:18:47,063 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 18:23:37,176 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:23:37,190 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:23:37,198 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 18:27:18,052 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:27:18,068 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:27:18,086 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 18:30:06,285 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:30:06,295 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:30:06,302 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 18:31:39,305 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:31:39,313 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:31:39,320 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 18:43:17,233 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-14 18:43:47,527 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:43:47,703 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 18:43:47,710 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\h2banco\src\test\resources
+2024-10-14 18:43:53,517 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:43:53,546 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 18:43:53,561 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\mapeamento\mapeamento\src\test\resources
+2024-10-14 18:43:55,264 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:43:55,311 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 18:43:55,319 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\ola-mundo\src\test\resources
+2024-10-14 18:43:58,271 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:43:58,374 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:43:58,389 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 18:43:59,566 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-14 18:46:10,311 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:46:10,482 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:46:10,488 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 18:49:33,576 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:49:33,584 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:49:33,588 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 18:52:59,886 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:52:59,896 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 18:52:59,902 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:25:14,751 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:25:14,851 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:25:14,856 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:27:07,472 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:27:07,479 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:27:07,482 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:27:50,707 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:27:50,718 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:27:50,725 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:28:50,591 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:28:50,595 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:28:50,599 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:30:48,303 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:30:48,309 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:30:48,314 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:30:58,273 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:30:58,280 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:30:58,285 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:33:12,472 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:33:12,482 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:33:12,486 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:33:37,864 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:33:37,872 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:33:37,875 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:35:08,259 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:35:08,268 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:35:08,274 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:37:11,851 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:37:11,858 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:37:11,860 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:39:00,090 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:39:00,097 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:39:00,103 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:39:41,519 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:39:41,545 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:39:41,555 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:40:42,183 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:40:42,189 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:40:42,193 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:44:52,629 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:44:52,637 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:44:52,653 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:48:47,979 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:48:48,192 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:48:48,197 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 19:49:19,436 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:49:19,444 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 19:49:19,448 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 20:31:47,586 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 20:31:47,842 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 20:31:47,912 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 20:32:11,818 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 20:32:11,819 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 20:32:11,825 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 20:47:03,480 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 20:47:03,660 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 20:47:03,664 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 20:49:19,559 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 20:49:19,722 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 20:49:19,726 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 20:50:36,813 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 20:50:38,554 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 20:50:38,560 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 20:51:22,911 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 20:51:23,058 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 20:51:23,062 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 20:55:14,787 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 20:55:14,811 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 20:55:14,832 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 20:56:01,746 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 20:56:01,754 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 20:56:01,758 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 20:59:19,359 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 20:59:19,366 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 20:59:19,369 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:00:04,710 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:00:04,716 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:00:04,719 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:02:12,652 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:02:12,661 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:02:12,699 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:04:26,129 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:04:26,139 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:04:26,147 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:06:46,292 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:06:46,299 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:06:46,302 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:09:15,816 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:09:15,824 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:09:15,828 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:11:16,225 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:11:16,231 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:11:16,234 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:15:42,031 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:15:42,039 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:15:42,044 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:16:46,929 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:16:46,936 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:16:46,941 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:17:34,125 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:17:34,132 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:17:34,137 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:19:32,426 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:19:32,492 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:19:32,498 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:19:33,577 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:19:33,602 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:19:33,606 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:20:09,587 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:20:09,597 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:20:09,601 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:20:49,191 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:20:49,201 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:20:49,207 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:28:34,364 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:28:34,368 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:28:34,372 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:29:26,458 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:29:26,478 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:29:26,481 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:33:22,158 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:33:22,167 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:33:22,171 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:33:29,568 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:33:29,575 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:33:29,579 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:36:35,878 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:36:35,888 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:36:35,893 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:40:57,791 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:40:57,814 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:40:57,818 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:42:47,494 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:42:47,525 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:42:47,618 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:44:36,378 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:44:36,386 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:44:36,390 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:47:36,828 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:47:36,835 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:47:36,838 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:56:18,577 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:56:18,585 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:56:18,590 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:56:58,029 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:56:58,036 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:56:58,039 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:57:11,151 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:57:11,157 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:57:11,160 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 21:59:06,604 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:59:06,614 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 21:59:06,619 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 22:02:51,008 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 22:02:51,015 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 22:02:51,018 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 22:19:06,288 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 22:19:06,294 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 22:19:06,297 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 22:21:22,070 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 22:21:22,077 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 22:21:22,080 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 22:22:43,020 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 22:22:43,029 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 22:22:43,036 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 22:23:39,551 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 22:23:39,560 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 22:23:39,564 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 22:25:43,023 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 22:25:43,029 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 22:25:43,034 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 22:26:25,878 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 22:26:25,886 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 22:26:25,891 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 22:34:24,522 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 22:34:24,533 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 22:34:24,538 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 22:36:32,789 [Worker-118: Launching projeto-service-dto - ProjetoServiceDtoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 22:36:32,797 [Worker-118: Launching projeto-service-dto - ProjetoServiceDtoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-14 22:36:32,800 [Worker-118: Launching projeto-service-dto - ProjetoServiceDtoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-14 22:42:17,405 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-14 22:43:13,477 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-15 17:45:16,845 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-15 17:46:31,772 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-15 17:50:01,501 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-15 17:50:20,296 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-15 18:33:56,981 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 18:33:57,314 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:33:57,327 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\h2banco\src\test\resources
+2024-10-15 18:34:05,712 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 18:34:05,760 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:34:05,771 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-15 18:34:08,536 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 18:34:08,567 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:34:08,579 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\mapeamento\mapeamento\src\test\resources
+2024-10-15 18:34:09,794 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 18:34:09,825 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:34:09,835 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\ola-mundo\src\test\resources
+2024-10-15 18:34:10,841 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 18:34:10,898 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-15 18:34:10,980 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 18:55:20,821 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:55:20,838 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 18:55:20,843 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 18:55:45,185 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:55:45,187 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 18:55:45,192 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:03:28,885 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:03:28,896 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:03:28,903 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:07:53,375 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:07:53,382 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:07:53,387 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:09:20,066 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:09:20,076 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:09:20,082 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:10:03,619 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:10:03,628 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:10:03,637 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:10:51,549 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:10:51,557 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:10:51,565 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:14:10,463 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:14:10,472 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:14:10,475 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:15:32,943 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:15:32,955 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:15:32,961 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:29:47,436 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:29:47,449 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:29:47,459 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:29:55,021 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:29:55,030 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:29:55,039 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:30:20,660 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:30:20,666 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:30:20,669 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:31:11,954 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:31:11,962 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:31:11,970 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:34:20,700 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:34:20,724 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:34:20,749 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:44:38,279 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:44:38,337 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:44:38,344 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:44:57,239 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:44:57,244 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:44:57,248 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:45:22,779 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:45:22,787 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:45:22,791 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:45:27,713 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 19:45:27,716 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 19:45:27,720 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 19:59:00,948 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-15 19:59:33,830 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-15 20:11:41,970 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 20:11:42,008 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 20:11:42,019 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 20:15:20,189 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 20:15:20,205 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 20:15:20,213 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 20:19:45,131 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-15 20:20:10,350 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-15 20:27:44,808 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 20:27:44,824 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 20:27:44,830 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:00:57,793 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:00:57,808 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:00:57,818 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:02:47,674 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:02:47,684 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:02:47,690 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:14:46,813 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:14:46,821 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:14:46,825 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:15:17,366 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:15:17,375 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:15:17,382 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:19:27,974 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:19:27,987 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:19:27,994 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:20:52,983 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:20:52,994 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:20:53,002 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:22:20,382 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:22:20,396 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:22:20,402 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:25:07,903 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:25:07,911 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:25:07,915 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:25:45,817 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:25:45,840 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:25:45,845 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:27:04,825 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:27:04,831 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:27:04,837 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:27:51,210 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:27:51,215 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:27:51,220 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:32:06,756 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:32:06,767 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:32:06,776 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:32:51,211 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:32:51,221 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:32:51,226 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:32:54,916 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:32:54,922 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:32:54,926 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:34:55,256 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:34:55,266 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:34:55,275 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:43:05,633 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:43:05,657 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:43:05,664 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:43:47,233 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:43:47,273 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:43:47,322 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:45:30,523 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:45:30,539 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:45:30,564 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:47:05,485 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:47:05,494 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:47:05,502 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:47:36,663 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:47:36,674 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:47:36,679 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-15 21:50:22,401 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 21:50:22,410 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-15 21:50:22,413 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 17:42:38,282 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-16 17:44:42,057 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-16 17:47:48,306 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.serratec:redeSocial:0.0.1-SNAPSHOT @ C:\Users\gabri\OneDrive\Documents\ResidenciaTic\TrabalhoFinalApi-SerraTec\redeSocial\pom.xml.
+2024-10-16 17:47:52,137 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /redeSocial/src/main/java
+2024-10-16 17:47:52,143 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /redeSocial/src/main/resources
+2024-10-16 17:47:52,150 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /redeSocial/src/main/resources
+2024-10-16 17:47:52,157 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /redeSocial/src/test/java
+2024-10-16 17:47:52,159 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /redeSocial/src/test/resources
+2024-10-16 17:47:53,006 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2024-10-16 17:48:00,498 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 17:48:00,529 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 17:48:00,535 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\TrabalhoFinalApi-SerraTec\redeSocial\src\test\resources
+2024-10-16 18:20:45,452 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.serratec.backend:projeto-service-dto:3.3.4 @ C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\pom.xml.
+2024-10-16 18:20:51,647 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4.pom
+2024-10-16 18:20:51,667 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4.pom
+2024-10-16 18:20:51,696 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.3.3/spring-security-config-6.3.3.pom
+2024-10-16 18:20:51,703 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.3.3/spring-security-config-6.3.3.pom
+2024-10-16 18:20:51,733 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.3.3/spring-security-core-6.3.3.pom
+2024-10-16 18:20:51,756 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.3.3/spring-security-core-6.3.3.pom
+2024-10-16 18:20:51,815 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.3.3/spring-security-crypto-6.3.3.pom
+2024-10-16 18:20:51,867 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.3.3/spring-security-crypto-6.3.3.pom
+2024-10-16 18:20:51,942 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.3.3/spring-security-web-6.3.3.pom
+2024-10-16 18:20:51,974 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.3.3/spring-security-web-6.3.3.pom
+2024-10-16 18:20:52,290 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4.jar
+2024-10-16 18:20:52,317 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4.jar
+2024-10-16 18:20:52,346 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.3.3/spring-security-web-6.3.3.jar
+2024-10-16 18:20:52,384 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.3.3/spring-security-core-6.3.3.jar
+2024-10-16 18:20:52,395 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.3.3/spring-security-crypto-6.3.3.jar
+2024-10-16 18:20:52,416 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.3.3/spring-security-config-6.3.3.jar
+2024-10-16 18:20:52,454 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.3.3/spring-security-crypto-6.3.3.jar
+2024-10-16 18:20:52,467 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.3.3/spring-security-web-6.3.3.jar
+2024-10-16 18:20:52,497 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.3.3/spring-security-core-6.3.3.jar
+2024-10-16 18:20:52,717 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.3.3/spring-security-config-6.3.3.jar
+2024-10-16 18:20:56,520 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 18:20:56,542 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 18:20:56,572 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 18:20:56,961 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4-sources.jar
+2024-10-16 18:20:57,147 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4-sources.jar
+2024-10-16 18:20:57,160 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:3.3.4
+2024-10-16 18:20:57,280 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.3.3/spring-security-config-6.3.3-sources.jar
+2024-10-16 18:20:57,622 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.3.3/spring-security-config-6.3.3-sources.jar
+2024-10-16 18:20:57,630 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:6.3.3
+2024-10-16 18:20:57,755 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.3.3/spring-security-core-6.3.3-sources.jar
+2024-10-16 18:20:57,931 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.3.3/spring-security-core-6.3.3-sources.jar
+2024-10-16 18:20:57,940 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:6.3.3
+2024-10-16 18:20:58,052 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.3.3/spring-security-crypto-6.3.3-sources.jar
+2024-10-16 18:20:58,106 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.3.3/spring-security-crypto-6.3.3-sources.jar
+2024-10-16 18:20:58,116 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:6.3.3
+2024-10-16 18:20:58,306 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.3.3/spring-security-web-6.3.3-sources.jar
+2024-10-16 18:20:58,473 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.3.3/spring-security-web-6.3.3-sources.jar
+2024-10-16 18:20:58,562 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:6.3.3
+2024-10-16 18:21:03,717 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 18:21:03,771 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 18:21:03,844 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 18:26:24,664 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 18:26:24,681 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 18:26:24,690 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 18:27:51,452 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 18:27:51,466 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 18:27:51,476 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 18:35:28,786 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 18:35:28,794 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 18:35:28,846 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 18:46:22,145 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 18:46:22,159 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 18:46:22,164 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 18:48:10,053 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 18:48:10,065 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 18:48:10,074 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 18:56:39,663 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 18:56:39,673 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 18:56:39,679 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 18:58:45,509 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 18:58:45,520 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 18:58:45,524 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 19:07:47,430 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 19:07:47,477 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 19:07:47,484 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 19:13:32,227 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 19:13:32,235 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 19:13:32,238 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 19:14:30,797 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 19:14:30,875 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 19:14:30,879 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 19:38:25,645 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 19:38:27,302 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 19:38:27,316 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 19:39:01,134 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 19:39:01,818 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 19:39:01,823 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 19:41:41,090 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 19:41:41,095 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 19:41:41,099 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 19:42:15,674 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 19:42:15,681 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-16 19:42:15,684 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 19:55:38,674 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 19:55:38,711 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 19:55:38,890 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 19:55:54,551 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 19:55:54,554 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 19:55:54,561 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:34:31,333 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:34:32,866 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:34:32,875 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:34:43,734 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:34:44,528 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:34:44,539 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:36:26,331 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:36:26,363 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:36:26,417 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:36:55,025 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:36:55,033 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:36:55,040 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:38:03,774 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:38:03,833 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:38:03,883 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:38:44,758 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:38:44,771 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:38:44,781 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:41:40,489 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:41:40,510 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:41:40,519 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:45:01,670 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:45:01,876 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:45:01,896 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:46:07,667 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:46:07,737 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:46:07,746 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:48:59,539 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:48:59,547 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:48:59,555 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:50:05,663 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:50:05,675 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:50:05,685 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:50:52,141 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:50:52,155 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:50:52,186 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:53:25,808 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:53:25,819 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:53:25,828 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:56:42,104 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:56:42,115 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:56:42,130 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:59:06,703 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:59:07,059 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:59:07,064 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 20:59:45,553 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 20:59:45,864 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 20:59:45,869 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 21:01:13,240 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 21:01:13,278 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 21:01:13,282 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 21:04:45,554 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 21:04:45,567 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 21:04:45,577 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 21:07:08,856 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 21:07:10,580 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 21:07:11,580 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 21:38:36,186 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 21:38:36,767 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 21:38:36,821 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 21:40:50,701 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 21:40:52,621 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 21:40:52,630 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-16 21:41:10,865 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-16 21:41:10,906 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 21:41:10,922 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-17 13:36:42,470 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-17 13:38:04,343 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-17 13:58:25,704 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-17 13:58:40,477 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-17 14:01:24,201 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-17 14:01:24,243 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 14:01:24,246 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\h2banco\src\test\resources
+2024-10-17 14:01:27,340 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-17 14:01:27,357 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 14:01:27,362 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\API-Restful-IndFinalProject\APIIndFinalProject\src\test\resources
+2024-10-17 14:01:27,952 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-17 14:01:27,970 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 14:01:27,986 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\mapeamento\mapeamento\src\test\resources
+2024-10-17 14:01:28,493 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-17 14:01:28,526 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 14:01:28,532 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\ola-mundo\src\test\resources
+2024-10-17 14:01:29,675 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-17 14:01:29,692 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 14:01:29,747 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-17 14:01:30,260 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-17 14:01:30,273 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 14:01:30,277 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\TrabalhoFinalApi-SerraTec\redeSocial\src\test\resources
+2024-10-17 14:02:24,277 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-17 14:02:24,285 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 14:02:24,290 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\TrabalhoFinalApi-SerraTec\redeSocial\src\test\resources
+2024-10-17 14:07:19,556 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-17 14:07:19,576 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 14:07:19,579 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\TrabalhoFinalApi-SerraTec\redeSocial\src\test\resources

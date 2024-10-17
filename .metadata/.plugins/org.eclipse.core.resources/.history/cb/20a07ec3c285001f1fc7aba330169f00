@@ -1,8 +1,0 @@
-package br.org.serratec.mapeamento.injecao;
-
-public class Consulta {
-	public Double calcularConsulta(Double valor) {
-		return valor = valor + valor * 0.1;
-	}
-
-}
