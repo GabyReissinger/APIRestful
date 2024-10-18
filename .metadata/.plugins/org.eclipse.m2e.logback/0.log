@@ -4308,3 +4308,9 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.vladmihal
 2024-10-18 10:53:49,171 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-18 10:53:49,178 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
 2024-10-18 10:53:49,184 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-18 10:54:06,095 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-18 10:54:06,103 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-18 10:54:06,108 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-18 10:54:19,404 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-18 10:54:19,412 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-18 10:54:19,420 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
