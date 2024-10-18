@@ -4297,3 +4297,14 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.vladmihal
 2024-10-17 22:08:12,612 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-17 22:08:12,649 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
 2024-10-17 22:08:12,653 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-18 10:44:33,576 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-18 10:45:15,681 [SonarLint Client RPC request executor] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/h2banco: br.org.serratec:h2banco:0.0.1-SNAPSHOT with classifier  to /h2banco/target/classes
+2024-10-18 10:51:13,856 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-18 10:51:13,889 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-18 10:51:13,899 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-18 10:52:02,141 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-18 10:52:02,147 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-18 10:52:02,152 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
+2024-10-18 10:53:49,171 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-18 10:53:49,178 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-18 10:53:49,184 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\gabri\OneDrive\Documents\ResidenciaTic\APIRestful\projeto-service-dto\src\test\resources
